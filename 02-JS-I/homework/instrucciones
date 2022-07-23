@@ -1,0 +1,12 @@
+Variables: Es un sitio donde podes poner lo que vos quieras como nombres, numeros, funciones, etc
+ que se les puede poner un valor luego.
+
+Strings: es cualquier texto o palabra entre 1 o 2 comillas.
+
+Funciones (argumentos, 'return'): las funciones son operaciones logicas que dan ordenes
+los argumentos es el valor que se les da a las funciones 
+Return es volver al principio de las funciones
+
+Declaraciones "if"  sirven para saber si un valor o algo cumple una condicion y si tiene relacion con otros valores.
+
+valores booleanos ("true", "false") estos valores significan verdadero o falso.
